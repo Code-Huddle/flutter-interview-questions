@@ -128,6 +128,74 @@ Flutter Interview Questions categorized by difficulty.
 
 <!-- QUESTIONS:ADVANCED:END -->
 
+### Questionnare Beginner 
+
+<!-- QUESTIONNAIRE:BEGINNER:START -->
+
+1. [What is Flutter?](#what-is-flutter)  
+   *Why ask:* Checks if the candidate knows the basic definition and has genuine interest in the framework.
+
+2. [What is Dart and why does Flutter use it?](#what-is-dart-and-why-does-flutter-use-it)  
+   *Why ask:* Every Flutter dev works in Dart daily; this confirms they understand the language choice and its benefits.
+
+3. [Name a few popular apps built with Flutter](#name-a-few-popular-apps-built-with-flutter)  
+   *Why ask:* Shows the candidate follows the ecosystem and is excited about real-world adoption.
+
+4. [What is the pubspec.yaml file and what is it used for?](#what-is-the-pubspecyaml-file-and-what-is-it-used-for)  
+   *Why ask:* First file every beginner touches — adding dependencies, assets, fonts — must know it cold.
+
+5. [What is the difference between main() and runApp() in Flutter?](#what-is-the-difference-between-main-and-runapp-in-flutter)  
+   *Why ask:* Tests understanding of the app entry point — a concept seen in every single Flutter project.
+
+6. [What are Widgets in Flutter? (Everything is a widget)](#what-are-widgets-in-flutter)  
+   *Why ask:* Core philosophy of Flutter — if they don’t get this, nothing else will make sense.
+
+7. [Differentiate between StatelessWidget and StatefulWidget](#differentiate-between-statelesswidget-and-statefulwidget)  
+   *Why ask:* Most fundamental decision when creating any screen — asked in 99% of interviews.
+
+8. [What is Hot Reload and how is it different from Hot Restart?](#what-is-hot-reload-and-how-is-it-different-from-hot-restart)  
+   *Why ask:* Primary productivity feature — juniors use it hundreds of times a day.
+
+9. [Explain the purpose of the Scaffold widget](#explain-the-purpose-of-the-scaffold-widget)  
+   *Why ask:* Scaffold is the skeleton of almost every screen — not knowing this is a red flag.
+
+10. [What is SafeArea and why do we use it?](#what-is-safearea-and-why-do-we-use-it)  
+    *Why ask:* Prevents UI from being hidden under notches/status bars — basic polish every app needs.
+
+11. [What is the difference between Container and SizedBox?](#what-is-the-difference-between-container-and-sizedbox)  
+    *Why ask:* Extremely common source of confusion for beginners; tests attention to performance and widget choice.
+
+12. [Explain mainAxisAlignment vs crossAxisAlignment](#explain-mainaxisalignment-vs-crossaxisalignment)  
+    *Why ask:* Used in every Row/Column — fundamental layout knowledge.
+
+13. [What does the Expanded widget do?](#what-does-the-expanded-widget-do)  
+    *Why ask:* Essential for responsive layouts in Row/Column — used in almost every real app.
+
+14. [What is the Stack widget? How do you use Positioned with it?](#what-is-the-stack-widget-how-do-you-use-positioned-with-it)  
+    *Why ask:* Stack + Positioned is the go-to for overlays, FABs, custom UI — very common pattern.
+
+15. [How do you navigate from one screen to another in Flutter?](#how-do-you-navigate-from-one-screen-to-another-in-flutter)  
+    *Why ask:* Navigation is required in 99% of apps — Navigator.push is a daily task.
+
+16. [How do you pass data between screens?](#how-do-you-pass-data-between-screens)  
+    *Why ask:* Real apps always pass data (user ID, object, etc.) — tests practical knowledge.
+
+17. [What is a Modal Bottom Sheet and how do you show it?](#what-is-a-modal-bottom-sheet-and-how-do-you-show-it)  
+    *Why ask:* Standard Material Design component used for filters, actions, forms — appears in most apps.
+
+18. [How do you make an HTTP GET request in Flutter?](#how-do-you-make-an-http-get-request-in-flutter)  
+    *Why ask:* Almost every app talks to an API — tests if they’ve built anything beyond “Hello World”.
+
+19. [What is TextEditingController and why do we need it?](#what-is-texteditingcontroller-and-why-do-we-need-it)  
+    *Why ask:* Required for login/signup forms, search bars — basic form handling knowledge.
+
+20. [Explain initState() and dispose() in a StatefulWidget](#explain-initstate-and-dispose-in-a-statefulwidget)  
+    *Why ask:* Critical for avoiding memory leaks (controllers, listeners, timers) — must-know lifecycle methods.
+
+<!-- QUESTIONNAIRE:BEGINNER:END -->
+
+
+
 
 ## All Questions with Answers
 
